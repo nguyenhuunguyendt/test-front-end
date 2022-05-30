@@ -49,18 +49,4 @@ a:hover {
   }
 } */
 /* tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
-  .main-container {
-    max-width: 1023px;
-  }
-  .item {
-    width: 100%;
-  }
-}
-/*mobile  */
-@media (max-width: 739px) {
-  .item {
-    width: 100%;
-  }
-}
 </style>
