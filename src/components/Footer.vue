@@ -8,7 +8,8 @@
 <style scoped>
 .footer {
   height: 79px;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
+  border-top: 1px solid black;
 }
 </style>
